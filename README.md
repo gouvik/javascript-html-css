@@ -1,4 +1,3 @@
-# Meu Primeiro Repositório
+Modelos de códigos já confirmados e prontos para uso.
 
-Modelos de códigos já confirmados.
 # javascript-html-css
