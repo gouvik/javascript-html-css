@@ -1,5 +1,3 @@
-// Programa que sorteia cinco números de um array.
-
 function sortearNumeros(numeros) {
 	let numerosSorteados = [];
 
