@@ -9,3 +9,5 @@ function sortearNumeros(numeros) {
 
 	console.log(numerosSorteados);
 }
+
+sortearNumeros([1, 3, 5, 4, 7, 9, 10, 24]);
